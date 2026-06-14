@@ -1,16 +1,1 @@
-[
-  {
-    "fecha": "2026-06-13",
-    "cliente_id": 56,
-    "metodo_pago_id": 2,
-    "observaciones": "",
-    "subtotal": 180000,
-    "total_descuentos": 0,
-    "total_final": 180000,
-    "total_comisiones": 104100,
-    "total_alca": 75900,
-    "id": 1,
-    "created_at": "2026-06-14T03:37:19.982Z",
-    "updated_at": "2026-06-14T03:37:19.982Z"
-  }
-]
+[]
