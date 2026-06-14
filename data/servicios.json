@@ -540,16 +540,6 @@
     "updated_at": "2026-06-13T22:01:53.471221+00:00"
   },
   {
-    "id": 56,
-    "nombre": "Maquillaje social",
-    "categoria": "Maquillaje",
-    "precio_base": 180000,
-    "comision_porcentaje": 47,
-    "activo": true,
-    "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
-  },
-  {
     "id": 58,
     "nombre": "Bigote con hilo o cera",
     "categoria": "Otros",
