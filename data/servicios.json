@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "nombre": "Manicure tradicional",
+    "categoria": "Manicure",
+    "precio_base": 35000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 2,
+    "nombre": "Manicure semipermanente",
+    "categoria": "Manicure",
+    "precio_base": 65000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 3,
+    "nombre": "Set de manos y pies tradicionales",
+    "categoria": "Manicure",
+    "precio_base": 65000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 4,
+    "nombre": "Set de manos y pies semipermanentes en francés o un solo color",
+    "categoria": "Manicure",
+    "precio_base": 115000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 5,
+    "nombre": "Montaje acrílicas hasta #3",
+    "categoria": "Manicure",
+    "precio_base": 125000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 6,
+    "nombre": "Montaje acrílicas de #3 a #5",
+    "categoria": "Manicure",
+    "precio_base": 145000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 7,
+    "nombre": "Montaje acrílicas de #5 en adelante",
+    "categoria": "Manicure",
+    "precio_base": 165000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 8,
+    "nombre": "Forrado de acrílico o poly gel semipermanente",
+    "categoria": "Manicure",
+    "precio_base": 100000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 9,
+    "nombre": "Retoque de forrado de acrílico + semipermanente",
+    "categoria": "Manicure",
+    "precio_base": 90000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 10,
+    "nombre": "Dipping + semipermanente",
+    "categoria": "Manicure",
+    "precio_base": 80000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 11,
+    "nombre": "Base rubber + semipermanente",
+    "categoria": "Manicure",
+    "precio_base": 85000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 12,
+    "nombre": "Recubrimiento en gel de construcción",
+    "categoria": "Manicure",
+    "precio_base": 90000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 13,
+    "nombre": "Montaje press on",
+    "categoria": "Manicure",
+    "precio_base": 105000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 14,
+    "nombre": "Retoque press on",
+    "categoria": "Manicure",
+    "precio_base": 85000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 15,
+    "nombre": "Montaje poly gel",
+    "categoria": "Manicure",
+    "precio_base": 120000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 16,
+    "nombre": "Retoque poly gel",
+    "categoria": "Manicure",
+    "precio_base": 90000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 17,
+    "nombre": "Pedicure tradicional",
+    "categoria": "Pedicure",
+    "precio_base": 40000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 18,
+    "nombre": "Pedicure semipermanente",
+    "categoria": "Pedicure",
+    "precio_base": 60000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 19,
+    "nombre": "Pedi Spa esmaltado",
+    "categoria": "Pedicure",
+    "precio_base": 105000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 20,
+    "nombre": "Depilación de cejas con cera",
+    "categoria": "Cejas",
+    "precio_base": 25000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 21,
+    "nombre": "Depilación de cejas con hilo",
+    "categoria": "Cejas",
+    "precio_base": 30000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 22,
+    "nombre": "Diseño, depilación y sombreado de cejas con henna",
+    "categoria": "Cejas",
+    "precio_base": 60000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 23,
+    "nombre": "Laminado de cejas",
+    "categoria": "Cejas",
+    "precio_base": 100000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 24,
+    "nombre": "Lifting de pestañas",
+    "categoria": "Pestañas",
+    "precio_base": 115000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 25,
+    "nombre": "Retiro de pestañas de otro spa",
+    "categoria": "Pestañas",
+    "precio_base": 15000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 26,
+    "nombre": "Montaje pestañas clásicas",
+    "categoria": "Pestañas",
+    "precio_base": 110000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 27,
+    "nombre": "Retoque clásicas",
+    "categoria": "Pestañas",
+    "precio_base": 70000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 28,
+    "nombre": "Montaje pestañas tipo pestañina",
+    "categoria": "Pestañas",
+    "precio_base": 120000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 29,
+    "nombre": "Retoque pestañina",
+    "categoria": "Pestañas",
+    "precio_base": 75000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 30,
+    "nombre": "Montaje pestañas volumen 2D y 3D",
+    "categoria": "Pestañas",
+    "precio_base": 130000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 31,
+    "nombre": "Retoque volumen 2D y 3D",
+    "categoria": "Pestañas",
+    "precio_base": 80000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 32,
+    "nombre": "Montaje pestañas volumen 4D y 5D",
+    "categoria": "Pestañas",
+    "precio_base": 150000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 33,
+    "nombre": "Retoque volumen 4D y 5D",
+    "categoria": "Pestañas",
+    "precio_base": 90000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 34,
+    "nombre": "Montaje pestañas mega volumen",
+    "categoria": "Pestañas",
+    "precio_base": 180000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 35,
+    "nombre": "Retoque mega volumen",
+    "categoria": "Pestañas",
+    "precio_base": 95000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 36,
+    "nombre": "Montaje pestañas fibra tecnológica",
+    "categoria": "Pestañas",
+    "precio_base": 170000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 37,
+    "nombre": "Retoque fibra tecnológica",
+    "categoria": "Pestañas",
+    "precio_base": 90000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 38,
+    "nombre": "Montaje pestañas híbridas / húmedo / wispy",
+    "categoria": "Pestañas",
+    "precio_base": 150000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 39,
+    "nombre": "Retoque híbridas / húmedo / wispy",
+    "categoria": "Pestañas",
+    "precio_base": 80000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 40,
+    "nombre": "Limpieza facial piel seca",
+    "categoria": "Facial",
+    "precio_base": 130000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 41,
+    "nombre": "Limpieza facial piel grasa",
+    "categoria": "Facial",
+    "precio_base": 140000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 42,
+    "nombre": "Tratamiento hidratación",
+    "categoria": "Facial",
+    "precio_base": 140000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 43,
+    "nombre": "Tratamiento nutrición",
+    "categoria": "Facial",
+    "precio_base": 140000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 44,
+    "nombre": "Tratamiento piel grasa",
+    "categoria": "Facial",
+    "precio_base": 120000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 45,
+    "nombre": "Tratamiento piel seca",
+    "categoria": "Facial",
+    "precio_base": 110000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 46,
+    "nombre": "Peeling de máculas",
+    "categoria": "Facial",
+    "precio_base": 160000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 47,
+    "nombre": "Yeso terapia tensora",
+    "categoria": "Facial",
+    "precio_base": 150000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 48,
+    "nombre": "Terapia de parafina",
+    "categoria": "Facial",
+    "precio_base": 150000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 49,
+    "nombre": "Crioterapia",
+    "categoria": "Facial",
+    "precio_base": 130000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 50,
+    "nombre": "Microblading",
+    "categoria": "Micropigmentación",
+    "precio_base": 390000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T23:13:29.907Z"
+  },
+  {
+    "id": 51,
+    "nombre": "Cejas efecto polvo",
+    "categoria": "Micropigmentación",
+    "precio_base": 370000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 52,
+    "nombre": "Cejas mixtas",
+    "categoria": "Micropigmentación",
+    "precio_base": 390000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 53,
+    "nombre": "Micropigmentación de labios",
+    "categoria": "Micropigmentación",
+    "precio_base": 360000,
+    "comision_porcentaje": 55,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T23:21:41.801Z"
+  },
+  {
+    "id": 54,
+    "nombre": "Hidralips",
+    "categoria": "Micropigmentación",
+    "precio_base": 190000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 55,
+    "nombre": "Maquillaje 15 años",
+    "categoria": "Maquillaje",
+    "precio_base": 500000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 56,
+    "nombre": "Maquillaje social",
+    "categoria": "Maquillaje",
+    "precio_base": 180000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 57,
+    "nombre": "Maquillaje novia",
+    "categoria": "Maquillaje",
+    "precio_base": 550000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 58,
+    "nombre": "Bigote con hilo o cera",
+    "categoria": "Otros",
+    "precio_base": 15000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 59,
+    "nombre": "Barbilla con hilo o cera",
+    "categoria": "Otros",
+    "precio_base": 15000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 60,
+    "nombre": "Patillas y mejillas con hilo o cera",
+    "categoria": "Otros",
+    "precio_base": 25000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 61,
+    "nombre": "Retiro de semipermanente de otro establecimiento",
+    "categoria": "Otros",
+    "precio_base": 15000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 62,
+    "nombre": "Retiro de acrílico de otro establecimiento",
+    "categoria": "Otros",
+    "precio_base": 20000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 63,
+    "nombre": "Retiro de press on y poly gel de otro establecimiento",
+    "categoria": "Otros",
+    "precio_base": 20000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 64,
+    "nombre": "Uña acrílica",
+    "categoria": "Otros",
+    "precio_base": 10000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 65,
+    "nombre": "Uña press on, poly o base rubber",
+    "categoria": "Otros",
+    "precio_base": 5000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 66,
+    "nombre": "Apliques c/u",
+    "categoria": "Otros",
+    "precio_base": 3000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 67,
+    "nombre": "Decoración (desde)",
+    "categoria": "Otros",
+    "precio_base": 5000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  },
+  {
+    "id": 68,
+    "nombre": "Asepsia",
+    "categoria": "Otros",
+    "precio_base": 30000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "created_at": "2026-06-13T22:01:53.471221+00:00",
+    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+  }
+]
