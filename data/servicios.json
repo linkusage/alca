@@ -540,16 +540,6 @@
     "updated_at": "2026-06-13T22:01:53.471221+00:00"
   },
   {
-    "id": 55,
-    "nombre": "Maquillaje 15 años",
-    "categoria": "Maquillaje",
-    "precio_base": 500000,
-    "comision_porcentaje": 47,
-    "activo": true,
-    "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
-  },
-  {
     "id": 56,
     "nombre": "Maquillaje social",
     "categoria": "Maquillaje",
