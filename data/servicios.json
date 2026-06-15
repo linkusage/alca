@@ -718,5 +718,15 @@
     "id": 75,
     "created_at": "2026-06-15T22:42:57.398Z",
     "updated_at": "2026-06-15T22:42:57.398Z"
+  },
+  {
+    "nombre": "Set tradicional",
+    "categoria": "Otros",
+    "precio_base": 65000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "id": 76,
+    "created_at": "2026-06-15T23:06:25.165Z",
+    "updated_at": "2026-06-15T23:06:25.165Z"
   }
 ]
