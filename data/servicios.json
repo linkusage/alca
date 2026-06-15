@@ -698,5 +698,15 @@
     "id": 73,
     "created_at": "2026-06-15T22:41:58.680Z",
     "updated_at": "2026-06-15T22:41:58.680Z"
+  },
+  {
+    "nombre": "Asepsia manos o pies (hombre)",
+    "categoria": "Manicure",
+    "precio_base": 30000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "id": 74,
+    "created_at": "2026-06-15T22:42:25.695Z",
+    "updated_at": "2026-06-15T22:42:25.695Z"
   }
 ]
