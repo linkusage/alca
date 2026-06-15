@@ -688,5 +688,15 @@
     "id": 72,
     "created_at": "2026-06-15T22:41:17.103Z",
     "updated_at": "2026-06-15T22:41:17.103Z"
+  },
+  {
+    "nombre": "Set manos y pies semipermanente (hombre)",
+    "categoria": "Manicure",
+    "precio_base": 95000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "id": 73,
+    "created_at": "2026-06-15T22:41:58.680Z",
+    "updated_at": "2026-06-15T22:41:58.680Z"
   }
 ]
