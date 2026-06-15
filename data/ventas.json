@@ -54,5 +54,19 @@
     "id": 4,
     "created_at": "2026-06-15T22:31:29.686Z",
     "updated_at": "2026-06-15T22:31:29.686Z"
+  },
+  {
+    "fecha": "2026-06-02",
+    "cliente_id": 5,
+    "metodo_pago_id": 2,
+    "observaciones": "",
+    "subtotal": 80000,
+    "total_descuentos": 0,
+    "total_final": 80000,
+    "total_comisiones": 37600,
+    "total_alca": 42400,
+    "id": 5,
+    "created_at": "2026-06-15T22:33:12.543Z",
+    "updated_at": "2026-06-15T22:33:12.543Z"
   }
 ]
