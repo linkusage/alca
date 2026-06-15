@@ -678,5 +678,15 @@
     "id": 71,
     "created_at": "2026-06-15T22:40:47.554Z",
     "updated_at": "2026-06-15T22:40:47.554Z"
+  },
+  {
+    "nombre": "Pedicure semipermanente (hombre)",
+    "categoria": "Pedicure",
+    "precio_base": 55000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "id": 72,
+    "created_at": "2026-06-15T22:41:17.103Z",
+    "updated_at": "2026-06-15T22:41:17.103Z"
   }
 ]
