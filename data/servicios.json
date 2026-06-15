@@ -708,5 +708,15 @@
     "id": 74,
     "created_at": "2026-06-15T22:42:25.695Z",
     "updated_at": "2026-06-15T22:42:25.695Z"
+  },
+  {
+    "nombre": "Set asepsia (hombre)",
+    "categoria": "Otros",
+    "precio_base": 55000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "id": 75,
+    "created_at": "2026-06-15T22:42:57.398Z",
+    "updated_at": "2026-06-15T22:42:57.398Z"
   }
 ]
