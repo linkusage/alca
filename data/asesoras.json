@@ -36,10 +36,11 @@
     "pass_hash": ""
   },
   {
-    "nombre": "MAQUILLADORA",
+    "nombre": "Maquilladora",
     "login_id": "",
     "id": 7,
     "created_at": "2026-06-16T05:48:02.714Z",
-    "updated_at": "2026-06-16T05:48:02.714Z"
+    "updated_at": "2026-06-16T06:53:55.097Z",
+    "pass_hash": ""
   }
 ]
