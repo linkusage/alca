@@ -2,192 +2,192 @@
   {
     "id": 1,
     "nombre": "Manicure tradicional",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 35000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 2,
     "nombre": "Manicure semipermanente",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 65000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 3,
     "nombre": "Set tradicionales (hombre)",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 65000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-16T00:23:33.211Z"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 4,
     "nombre": "Set semipermanentes",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 115000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-15T23:03:51.681Z"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 5,
     "nombre": "Montaje acrílicas hasta #3",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 125000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 6,
     "nombre": "Montaje acrílicas de #3 a #5",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 145000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 7,
     "nombre": "Montaje acrílicas de #5 en adelante",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 165000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 8,
     "nombre": "Forrado de acrílico o poly gel semipermanente",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 100000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 9,
     "nombre": "Retoque de forrado de acrílico + semipermanente",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 90000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 10,
     "nombre": "Dipping + semipermanente",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 80000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 11,
     "nombre": "Base rubber + semipermanente",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 85000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 12,
     "nombre": "Recubrimiento en gel de construcción",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 90000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 13,
     "nombre": "Montaje press on",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 105000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 14,
     "nombre": "Retoque press on",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 85000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 15,
     "nombre": "Montaje poly gel",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 120000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 16,
     "nombre": "Retoque poly gel",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 90000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 17,
     "nombre": "Pedicure tradicional",
-    "categoria": "Pedicure",
+    "categoria": "Uñas",
     "precio_base": 40000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 18,
     "nombre": "Pedicure semipermanente",
-    "categoria": "Pedicure",
+    "categoria": "Uñas",
     "precio_base": 60000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 19,
     "nombre": "Pedi Spa esmaltado",
-    "categoria": "Pedicure",
+    "categoria": "Uñas",
     "precio_base": 105000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "id": 20,
@@ -651,63 +651,63 @@
   },
   {
     "nombre": "Manicure tradicional (hombre)",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 35000,
     "comision_porcentaje": 47,
     "activo": true,
     "id": 69,
     "created_at": "2026-06-15T22:37:18.828Z",
-    "updated_at": "2026-06-15T22:37:18.828Z"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "nombre": "Pedicure tradicional (hombre)",
-    "categoria": "Pedicure",
+    "categoria": "Uñas",
     "precio_base": 65000,
     "comision_porcentaje": 47,
     "activo": true,
     "id": 70,
     "created_at": "2026-06-15T22:39:15.217Z",
-    "updated_at": "2026-06-16T03:02:37.168Z"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "nombre": "Manicure semipermanente (hombre)",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 60000,
     "comision_porcentaje": 47,
     "activo": true,
     "id": 71,
     "created_at": "2026-06-15T22:40:47.554Z",
-    "updated_at": "2026-06-15T22:40:47.554Z"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "nombre": "Pedicure semipermanente (hombre)",
-    "categoria": "Pedicure",
+    "categoria": "Uñas",
     "precio_base": 55000,
     "comision_porcentaje": 47,
     "activo": true,
     "id": 72,
     "created_at": "2026-06-15T22:41:17.103Z",
-    "updated_at": "2026-06-15T22:41:17.103Z"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "nombre": "Set semipermanente (hombre)",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 95000,
     "comision_porcentaje": 47,
     "activo": true,
     "id": 73,
     "created_at": "2026-06-15T22:41:58.680Z",
-    "updated_at": "2026-06-16T03:01:18.998Z"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "nombre": "Asepsia manos o pies (hombre)",
-    "categoria": "Manicure",
+    "categoria": "Uñas",
     "precio_base": 30000,
     "comision_porcentaje": 47,
     "activo": true,
     "id": 74,
     "created_at": "2026-06-15T22:42:25.695Z",
-    "updated_at": "2026-06-15T22:42:25.695Z"
+    "updated_at": "2026-06-16T04:31:12.780Z"
   },
   {
     "nombre": "Set asepsia (hombre)",
