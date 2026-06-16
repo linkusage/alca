@@ -211,13 +211,13 @@
   },
   {
     "id": 22,
-    "nombre": "Diseño, depilación y sombreado de cejas con henna",
+    "nombre": "Diseño de cejas",
     "categoria": "Cejas",
     "precio_base": 60000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-06-16T07:00:24.681Z"
   },
   {
     "id": 23,
