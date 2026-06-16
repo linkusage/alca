@@ -354,5 +354,15 @@
     "id": 58,
     "created_at": "2026-06-16T16:19:20.304Z",
     "updated_at": "2026-06-16T16:19:20.304Z"
+  },
+  {
+    "nombre": "ANDREA",
+    "apellido": "CARVAJAL",
+    "telefono": "324 6785930",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 59,
+    "created_at": "2026-06-16T20:50:14.843Z",
+    "updated_at": "2026-06-16T20:50:14.843Z"
   }
 ]
