@@ -1168,5 +1168,20 @@
     "id": 79,
     "created_at": "2026-06-16T01:15:52.224Z",
     "updated_at": "2026-06-16T01:15:52.224Z"
+  },
+  {
+    "servicio_id": 76,
+    "asesora_id": 1,
+    "precio_base": 52000,
+    "descuento_porcentaje": 0,
+    "valor_descuento": 0,
+    "precio_final": 52000,
+    "comision_porcentaje": 47,
+    "valor_comision": 24440,
+    "valor_alca": 27560,
+    "venta_id": 57,
+    "id": 80,
+    "created_at": "2026-06-16T01:19:59.327Z",
+    "updated_at": "2026-06-16T01:19:59.327Z"
   }
 ]
