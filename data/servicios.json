@@ -662,12 +662,12 @@
   {
     "nombre": "Pedicure tradicional (hombre)",
     "categoria": "Pedicure",
-    "precio_base": 40,
+    "precio_base": 65000,
     "comision_porcentaje": 47,
     "activo": true,
     "id": 70,
     "created_at": "2026-06-15T22:39:15.217Z",
-    "updated_at": "2026-06-15T22:39:15.217Z"
+    "updated_at": "2026-06-16T03:02:37.168Z"
   },
   {
     "nombre": "Manicure semipermanente (hombre)",
