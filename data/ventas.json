@@ -971,24 +971,5 @@
         "monto": 20000
       }
     ]
-  },
-  {
-    "fecha": "2026-06-02",
-    "cliente_id": 7,
-    "observaciones": "",
-    "pagos": [
-      {
-        "metodo_pago_id": 2,
-        "monto": 35000
-      }
-    ],
-    "subtotal": 35000,
-    "total_descuentos": 0,
-    "total_final": 35000,
-    "total_comisiones": 16450,
-    "total_alca": 18550,
-    "id": 69,
-    "created_at": "2026-06-16T04:34:38.464Z",
-    "updated_at": "2026-06-16T04:34:38.464Z"
   }
 ]
