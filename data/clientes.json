@@ -384,5 +384,15 @@
     "id": 61,
     "created_at": "2026-06-17T20:59:10.093Z",
     "updated_at": "2026-06-17T20:59:10.093Z"
+  },
+  {
+    "nombre": "ZULY CORRERA",
+    "apellido": "",
+    "telefono": "3226560726",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 62,
+    "created_at": "2026-06-17T23:56:17.905Z",
+    "updated_at": "2026-06-17T23:56:17.905Z"
   }
 ]
