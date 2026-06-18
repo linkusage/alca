@@ -404,5 +404,15 @@
     "id": 63,
     "created_at": "2026-06-18T21:56:21.069Z",
     "updated_at": "2026-06-18T21:56:21.069Z"
+  },
+  {
+    "nombre": "VALENTINA PULGARIN",
+    "apellido": "",
+    "telefono": "302 7858472",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 64,
+    "created_at": "2026-06-18T22:03:31.755Z",
+    "updated_at": "2026-06-18T22:03:31.755Z"
   }
 ]
