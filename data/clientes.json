@@ -394,5 +394,15 @@
     "id": 62,
     "created_at": "2026-06-17T23:56:17.905Z",
     "updated_at": "2026-06-17T23:56:17.905Z"
+  },
+  {
+    "nombre": "MARIA CAMILA PATERNINA",
+    "apellido": "",
+    "telefono": "3107483682",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 63,
+    "created_at": "2026-06-18T21:56:21.069Z",
+    "updated_at": "2026-06-18T21:56:21.069Z"
   }
 ]
