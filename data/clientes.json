@@ -424,5 +424,15 @@
     "id": 65,
     "created_at": "2026-06-18T23:39:11.555Z",
     "updated_at": "2026-06-18T23:39:11.555Z"
+  },
+  {
+    "nombre": "SARA YEPES",
+    "apellido": "",
+    "telefono": "321 8443074",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 66,
+    "created_at": "2026-06-18T23:50:12.940Z",
+    "updated_at": "2026-06-18T23:50:12.940Z"
   }
 ]
