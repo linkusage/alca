@@ -187,5 +187,14 @@
     "id": 21,
     "created_at": "2026-06-19T18:41:13.582Z",
     "updated_at": "2026-06-19T18:41:13.582Z"
+  },
+  {
+    "fecha": "2026-06-17",
+    "categoria_id": 9,
+    "valor": 120000,
+    "notas": "ASEO ANTIGUO LOCAL ALCA",
+    "id": 22,
+    "created_at": "2026-06-19T18:42:13.050Z",
+    "updated_at": "2026-06-19T18:42:13.050Z"
   }
 ]
