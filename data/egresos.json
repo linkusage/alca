@@ -43,5 +43,14 @@
     "id": 5,
     "created_at": "2026-06-19T14:07:39.488Z",
     "updated_at": "2026-06-19T14:07:39.488Z"
+  },
+  {
+    "fecha": "2026-06-19",
+    "categoria_id": 7,
+    "valor": 10,
+    "notas": "DOMI INSUMOS COCINA",
+    "id": 6,
+    "created_at": "2026-06-19T14:08:28.999Z",
+    "updated_at": "2026-06-19T14:08:28.999Z"
   }
 ]
