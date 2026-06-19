@@ -56,11 +56,11 @@
   {
     "fecha": "2026-06-03",
     "categoria_id": 2,
-    "valor": 33,
+    "valor": 33000,
     "notas": "PLAN CELULAR",
     "id": 7,
     "created_at": "2026-06-19T14:09:20.791Z",
-    "updated_at": "2026-06-19T14:09:20.791Z"
+    "updated_at": "2026-06-19T17:58:23.815Z"
   },
   {
     "fecha": "2026-06-05",
