@@ -178,5 +178,14 @@
     "id": 20,
     "created_at": "2026-06-19T18:40:07.425Z",
     "updated_at": "2026-06-19T18:40:07.425Z"
+  },
+  {
+    "fecha": "2026-06-16",
+    "categoria_id": 9,
+    "valor": 30000,
+    "notas": "ARREGLO DE DRILLS",
+    "id": 21,
+    "created_at": "2026-06-19T18:41:13.582Z",
+    "updated_at": "2026-06-19T18:41:13.582Z"
   }
 ]
