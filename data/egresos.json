@@ -97,5 +97,14 @@
     "id": 11,
     "created_at": "2026-06-19T18:14:55.740Z",
     "updated_at": "2026-06-19T18:14:55.740Z"
+  },
+  {
+    "fecha": "2026-06-05",
+    "categoria_id": 9,
+    "valor": 100000,
+    "notas": "TIERRA - ABONO - GRANITO Y 2 PLANTAS",
+    "id": 12,
+    "created_at": "2026-06-19T18:16:18.813Z",
+    "updated_at": "2026-06-19T18:16:18.813Z"
   }
 ]
