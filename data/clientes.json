@@ -460,5 +460,15 @@
     "id": 69,
     "created_at": "2026-06-19T22:11:15.328Z",
     "updated_at": "2026-06-19T22:11:15.328Z"
+  },
+  {
+    "nombre": "MARIANA",
+    "apellido": "RODRIGUEZ",
+    "telefono": "304 5454729",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 70,
+    "created_at": "2026-06-19T22:21:59.432Z",
+    "updated_at": "2026-06-19T22:21:59.432Z"
   }
 ]
