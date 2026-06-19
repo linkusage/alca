@@ -1645,5 +1645,24 @@
     "id": 84,
     "created_at": "2026-06-19T22:57:35.732Z",
     "updated_at": "2026-06-19T22:57:35.732Z"
+  },
+  {
+    "fecha": "2026-06-19",
+    "cliente_id": 71,
+    "observaciones": "",
+    "pagos": [
+      {
+        "metodo_pago_id": 2,
+        "monto": 125000
+      }
+    ],
+    "subtotal": 125000,
+    "total_descuentos": 0,
+    "total_final": 125000,
+    "total_comisiones": 58750,
+    "total_alca": 66250,
+    "id": 85,
+    "created_at": "2026-06-19T23:19:12.158Z",
+    "updated_at": "2026-06-19T23:19:12.158Z"
   }
 ]
