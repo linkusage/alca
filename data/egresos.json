@@ -151,5 +151,14 @@
     "id": 17,
     "created_at": "2026-06-19T18:37:38.972Z",
     "updated_at": "2026-06-19T18:37:38.972Z"
+  },
+  {
+    "fecha": "2026-06-16",
+    "categoria_id": 9,
+    "valor": 41000,
+    "notas": "ARREGLO DE CORTA CUTICULAS",
+    "id": 18,
+    "created_at": "2026-06-19T18:38:19.748Z",
+    "updated_at": "2026-06-19T18:38:19.748Z"
   }
 ]
