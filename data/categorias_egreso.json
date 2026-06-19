@@ -10,5 +10,11 @@
     "id": 2,
     "created_at": "2026-06-19T00:41:30.218Z",
     "updated_at": "2026-06-19T00:41:30.218Z"
+  },
+  {
+    "nombre": "Intereses Herrera",
+    "id": 3,
+    "created_at": "2026-06-19T00:41:36.712Z",
+    "updated_at": "2026-06-19T00:41:36.712Z"
   }
 ]
