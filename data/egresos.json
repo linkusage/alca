@@ -79,5 +79,14 @@
     "id": 9,
     "created_at": "2026-06-19T18:09:00.379Z",
     "updated_at": "2026-06-19T18:09:00.379Z"
+  },
+  {
+    "fecha": "2026-06-05",
+    "categoria_id": 5,
+    "valor": 131000,
+    "notas": "TOALLAS WYPALL",
+    "id": 10,
+    "created_at": "2026-06-19T18:10:19.784Z",
+    "updated_at": "2026-06-19T18:10:19.784Z"
   }
 ]
