@@ -520,5 +520,15 @@
     "id": 75,
     "created_at": "2026-06-20T19:48:08.586Z",
     "updated_at": "2026-06-20T19:48:08.586Z"
+  },
+  {
+    "nombre": "SARA",
+    "apellido": "ESTRADA",
+    "telefono": "311 7079367",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 76,
+    "created_at": "2026-06-20T20:49:21.386Z",
+    "updated_at": "2026-06-20T20:49:21.386Z"
   }
 ]
