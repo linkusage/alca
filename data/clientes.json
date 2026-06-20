@@ -540,5 +540,15 @@
     "id": 77,
     "created_at": "2026-06-20T21:06:57.046Z",
     "updated_at": "2026-06-20T21:06:57.046Z"
+  },
+  {
+    "nombre": "ALEJANDRA",
+    "apellido": "MUÑOZ",
+    "telefono": "319 2659045",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 78,
+    "created_at": "2026-06-20T21:32:00.139Z",
+    "updated_at": "2026-06-20T21:32:00.139Z"
   }
 ]
