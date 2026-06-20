@@ -580,5 +580,15 @@
     "id": 81,
     "created_at": "2026-06-20T22:41:31.656Z",
     "updated_at": "2026-06-20T22:41:31.656Z"
+  },
+  {
+    "nombre": "GILMA",
+    "apellido": "",
+    "telefono": "311 7690086",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 82,
+    "created_at": "2026-06-20T23:30:28.399Z",
+    "updated_at": "2026-06-20T23:30:28.399Z"
   }
 ]
