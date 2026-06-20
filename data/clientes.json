@@ -510,5 +510,15 @@
     "id": 74,
     "created_at": "2026-06-20T16:40:28.594Z",
     "updated_at": "2026-06-20T16:40:28.594Z"
+  },
+  {
+    "nombre": "VALENTINA",
+    "apellido": "RENDON",
+    "telefono": "315 7305643",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 75,
+    "created_at": "2026-06-20T19:48:08.586Z",
+    "updated_at": "2026-06-20T19:48:08.586Z"
   }
 ]
