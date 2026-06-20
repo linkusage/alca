@@ -560,5 +560,15 @@
     "id": 79,
     "created_at": "2026-06-20T21:35:48.685Z",
     "updated_at": "2026-06-20T21:35:48.685Z"
+  },
+  {
+    "nombre": "JUAN DAVID",
+    "apellido": "MUÑOZ",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 80,
+    "created_at": "2026-06-20T22:13:11.006Z",
+    "updated_at": "2026-06-20T22:13:11.006Z"
   }
 ]
