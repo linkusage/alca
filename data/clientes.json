@@ -500,5 +500,15 @@
     "id": 73,
     "created_at": "2026-06-20T15:00:36.644Z",
     "updated_at": "2026-06-20T15:00:36.644Z"
+  },
+  {
+    "nombre": "DIANA",
+    "apellido": "HERRERA",
+    "telefono": "313 5364554",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 74,
+    "created_at": "2026-06-20T16:40:28.594Z",
+    "updated_at": "2026-06-20T16:40:28.594Z"
   }
 ]
