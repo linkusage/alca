@@ -550,5 +550,15 @@
     "id": 78,
     "created_at": "2026-06-20T21:32:00.139Z",
     "updated_at": "2026-06-20T21:32:00.139Z"
+  },
+  {
+    "nombre": "SANDRA",
+    "apellido": "CRUZ",
+    "telefono": "300 6197634",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 79,
+    "created_at": "2026-06-20T21:35:48.685Z",
+    "updated_at": "2026-06-20T21:35:48.685Z"
   }
 ]
