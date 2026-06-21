@@ -600,5 +600,15 @@
     "id": 83,
     "created_at": "2026-06-21T00:04:06.406Z",
     "updated_at": "2026-06-21T00:04:06.406Z"
+  },
+  {
+    "nombre": "CAMILA",
+    "apellido": "SEPULVEDA",
+    "telefono": "302 3422032",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 84,
+    "created_at": "2026-06-21T00:19:59.924Z",
+    "updated_at": "2026-06-21T00:19:59.924Z"
   }
 ]
