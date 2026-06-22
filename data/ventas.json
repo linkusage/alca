@@ -1972,5 +1972,24 @@
     "id": 101,
     "created_at": "2026-06-22T12:48:38.781Z",
     "updated_at": "2026-06-22T12:48:38.781Z"
+  },
+  {
+    "fecha": "2026-06-22",
+    "cliente_id": 86,
+    "observaciones": "",
+    "pagos": [
+      {
+        "metodo_pago_id": 1,
+        "monto": 65000
+      }
+    ],
+    "subtotal": 65000,
+    "total_descuentos": 0,
+    "total_final": 65000,
+    "total_comisiones": 30550,
+    "total_alca": 34450,
+    "id": 102,
+    "created_at": "2026-06-22T16:20:39.090Z",
+    "updated_at": "2026-06-22T16:20:39.090Z"
   }
 ]
