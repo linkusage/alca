@@ -778,5 +778,15 @@
     "id": 81,
     "created_at": "2026-06-20T23:31:37.212Z",
     "updated_at": "2026-06-20T23:31:37.212Z"
+  },
+  {
+    "nombre": "Depilación de axilas",
+    "categoria": "Cejas",
+    "precio_base": 35000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "id": 82,
+    "created_at": "2026-06-22T18:04:38.379Z",
+    "updated_at": "2026-06-22T18:04:38.379Z"
   }
 ]
