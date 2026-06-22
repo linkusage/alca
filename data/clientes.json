@@ -630,5 +630,15 @@
     "id": 86,
     "created_at": "2026-06-22T16:06:10.127Z",
     "updated_at": "2026-06-22T16:06:10.127Z"
+  },
+  {
+    "nombre": "VANESSA FONSECA",
+    "apellido": "",
+    "telefono": "‎3013738065",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 87,
+    "created_at": "2026-06-22T17:11:44.499Z",
+    "updated_at": "2026-06-22T17:11:44.499Z"
   }
 ]
