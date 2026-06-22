@@ -232,5 +232,14 @@
     "id": 26,
     "created_at": "2026-06-19T18:51:08.234Z",
     "updated_at": "2026-06-19T18:51:08.234Z"
+  },
+  {
+    "fecha": "2026-06-22",
+    "categoria_id": 9,
+    "valor": 45000,
+    "notas": "Rodachines para los puf",
+    "id": 27,
+    "created_at": "2026-06-22T20:18:45.901Z",
+    "updated_at": "2026-06-22T20:18:45.901Z"
   }
 ]
