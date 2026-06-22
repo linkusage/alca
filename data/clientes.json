@@ -620,5 +620,15 @@
     "id": 85,
     "created_at": "2026-06-22T11:57:07.698Z",
     "updated_at": "2026-06-22T11:57:07.698Z"
+  },
+  {
+    "nombre": "LAURA ESTEFANIA ALVARADO",
+    "apellido": "",
+    "telefono": "‎3027958384",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 86,
+    "created_at": "2026-06-22T16:06:10.127Z",
+    "updated_at": "2026-06-22T16:06:10.127Z"
   }
 ]
