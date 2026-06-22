@@ -2094,16 +2094,16 @@
     "pagos": [
       {
         "metodo_pago_id": 3,
-        "monto": 170000
+        "monto": 160000
       }
     ],
-    "subtotal": 170000,
+    "subtotal": 160000,
     "total_descuentos": 0,
-    "total_final": 170000,
-    "total_comisiones": 79900,
-    "total_alca": 90100,
+    "total_final": 160000,
+    "total_comisiones": 75200,
+    "total_alca": 84800,
     "id": 108,
     "created_at": "2026-06-22T22:31:50.321Z",
-    "updated_at": "2026-06-22T22:31:50.321Z"
+    "updated_at": "2026-06-22T22:32:59.404Z"
   }
 ]
