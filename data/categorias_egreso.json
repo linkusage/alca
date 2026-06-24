@@ -16,7 +16,8 @@
     "nombre": "Intereses Herrera",
     "id": 3,
     "created_at": "2026-06-19T00:41:36.712Z",
-    "updated_at": "2026-06-19T00:41:36.712Z"
+    "updated_at": "2026-06-24T23:37:58.369Z",
+    "tipo": "OPEX"
   },
   {
     "nombre": "CEO",
