@@ -10,7 +10,8 @@
     "nombre": "Servicios",
     "id": 2,
     "created_at": "2026-06-19T00:41:30.218Z",
-    "updated_at": "2026-06-19T00:41:30.218Z"
+    "updated_at": "2026-06-24T23:38:17.111Z",
+    "tipo": "OPEX"
   },
   {
     "nombre": "Intereses Herrera",
