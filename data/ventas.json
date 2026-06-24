@@ -2143,5 +2143,24 @@
     "id": 110,
     "created_at": "2026-06-23T16:51:28.918Z",
     "updated_at": "2026-06-23T16:51:28.918Z"
+  },
+  {
+    "fecha": "2026-06-23",
+    "cliente_id": 93,
+    "observaciones": "",
+    "pagos": [
+      {
+        "metodo_pago_id": 2,
+        "monto": 65000
+      }
+    ],
+    "subtotal": 65000,
+    "total_descuentos": 0,
+    "total_final": 65000,
+    "total_comisiones": 30550,
+    "total_alca": 34450,
+    "id": 111,
+    "created_at": "2026-06-24T00:04:00.079Z",
+    "updated_at": "2026-06-24T00:04:00.079Z"
   }
 ]
