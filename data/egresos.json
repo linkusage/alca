@@ -241,5 +241,14 @@
     "id": 27,
     "created_at": "2026-06-22T20:18:45.901Z",
     "updated_at": "2026-06-22T20:18:45.901Z"
+  },
+  {
+    "fecha": "2026-06-24",
+    "categoria_id": 2,
+    "valor": 1688700,
+    "notas": "PAGO SERVICIOS PRIMEROS DÍAS DE JUNIO Y TASA DE SEGURIDAD LOCAL ANTERIOR",
+    "id": 28,
+    "created_at": "2026-06-24T16:13:40.082Z",
+    "updated_at": "2026-06-24T16:13:40.082Z"
   }
 ]
