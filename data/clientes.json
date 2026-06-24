@@ -700,5 +700,15 @@
     "id": 93,
     "created_at": "2026-06-24T00:03:38.986Z",
     "updated_at": "2026-06-24T00:03:38.986Z"
+  },
+  {
+    "nombre": "KAREN CASTAÑO",
+    "apellido": "",
+    "telefono": "3243560060",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 94,
+    "created_at": "2026-06-24T23:41:44.019Z",
+    "updated_at": "2026-06-24T23:41:44.019Z"
   }
 ]
