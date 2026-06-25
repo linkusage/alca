@@ -57,5 +57,12 @@
     "id": 9,
     "created_at": "2026-06-19T14:07:03.965Z",
     "updated_at": "2026-06-19T14:07:03.965Z"
+  },
+  {
+    "nombre": "Licencias",
+    "tipo": "OPEX",
+    "id": 10,
+    "created_at": "2026-06-25T00:04:04.483Z",
+    "updated_at": "2026-06-25T00:04:04.483Z"
   }
 ]
