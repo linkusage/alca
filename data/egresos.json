@@ -19,12 +19,12 @@
   },
   {
     "fecha": "2026-06-03",
-    "categoria_id": 2,
+    "categoria_id": 10,
     "valor": 64800,
     "notas": "MENSUALIDAD FRESHA",
     "id": 3,
     "created_at": "2026-06-19T14:06:24.031Z",
-    "updated_at": "2026-06-19T17:59:48.888Z"
+    "updated_at": "2026-06-25T00:04:41.190Z"
   },
   {
     "fecha": "2026-06-03",
