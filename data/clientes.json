@@ -760,5 +760,15 @@
     "id": 99,
     "created_at": "2026-06-26T20:50:11.040Z",
     "updated_at": "2026-06-26T20:50:11.040Z"
+  },
+  {
+    "nombre": "VALERIA",
+    "apellido": "CARMONA",
+    "telefono": "305 2563892",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 100,
+    "created_at": "2026-06-26T21:59:36.153Z",
+    "updated_at": "2026-06-26T21:59:36.153Z"
   }
 ]
