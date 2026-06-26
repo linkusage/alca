@@ -730,5 +730,15 @@
     "id": 96,
     "created_at": "2026-06-26T16:29:18.259Z",
     "updated_at": "2026-06-26T16:29:18.259Z"
+  },
+  {
+    "nombre": "SARA",
+    "apellido": "BOHORQUEZ",
+    "telefono": "302 3358030",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 97,
+    "created_at": "2026-06-26T16:30:06.575Z",
+    "updated_at": "2026-06-26T16:30:06.575Z"
   }
 ]
