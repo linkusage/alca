@@ -2373,5 +2373,34 @@
     "id": 121,
     "created_at": "2026-06-26T20:48:04.947Z",
     "updated_at": "2026-06-26T20:48:04.947Z"
+  },
+  {
+    "fecha": "2026-06-26",
+    "cliente_id": 21,
+    "observaciones": "",
+    "pagos": [
+      {
+        "metodo_pago_id": 2,
+        "monto": 65000,
+        "recargo": 0
+      }
+    ],
+    "total_recargos": 0,
+    "total_cobrado": 65000,
+    "propinas": [
+      {
+        "asesora_id": 2,
+        "monto": 10000
+      }
+    ],
+    "total_propinas": 10000,
+    "subtotal": 65000,
+    "total_descuentos": 0,
+    "total_final": 65000,
+    "total_comisiones": 30550,
+    "total_alca": 34450,
+    "id": 122,
+    "created_at": "2026-06-26T22:48:18.684Z",
+    "updated_at": "2026-06-26T22:48:18.684Z"
   }
 ]
