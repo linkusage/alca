@@ -740,5 +740,15 @@
     "id": 97,
     "created_at": "2026-06-26T16:30:06.575Z",
     "updated_at": "2026-06-26T16:30:06.575Z"
+  },
+  {
+    "nombre": "VALENTINA",
+    "apellido": "HINCAPIE",
+    "telefono": "305 3154771",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 98,
+    "created_at": "2026-06-26T16:33:44.349Z",
+    "updated_at": "2026-06-26T16:33:44.349Z"
   }
 ]
