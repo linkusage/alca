@@ -790,5 +790,15 @@
     "id": 102,
     "created_at": "2026-06-27T16:13:22.320Z",
     "updated_at": "2026-06-27T16:13:22.320Z"
+  },
+  {
+    "nombre": "MARIA ALEJANDRA",
+    "apellido": "GARCIA",
+    "telefono": "319 2828156",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 103,
+    "created_at": "2026-06-27T16:17:50.824Z",
+    "updated_at": "2026-06-27T16:17:50.824Z"
   }
 ]
