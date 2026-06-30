@@ -820,5 +820,15 @@
     "id": 105,
     "created_at": "2026-06-30T19:50:36.003Z",
     "updated_at": "2026-06-30T19:50:36.003Z"
+  },
+  {
+    "nombre": "NELIDA",
+    "apellido": "GONZALEZ",
+    "telefono": "3105255159",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 106,
+    "created_at": "2026-06-30T20:57:49.753Z",
+    "updated_at": "2026-06-30T20:57:49.753Z"
   }
 ]
