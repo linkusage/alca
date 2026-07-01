@@ -259,5 +259,14 @@
     "id": 29,
     "created_at": "2026-06-25T16:47:36.330Z",
     "updated_at": "2026-06-25T16:47:36.330Z"
+  },
+  {
+    "fecha": "2026-06-30",
+    "categoria_id": 2,
+    "valor": 64800,
+    "notas": "PAGO FRESHA",
+    "id": 30,
+    "created_at": "2026-07-01T15:00:49.024Z",
+    "updated_at": "2026-07-01T15:00:49.024Z"
   }
 ]
