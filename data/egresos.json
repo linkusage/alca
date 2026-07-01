@@ -268,5 +268,14 @@
     "id": 30,
     "created_at": "2026-07-01T15:00:49.024Z",
     "updated_at": "2026-07-01T15:00:49.024Z"
+  },
+  {
+    "fecha": "2026-06-30",
+    "categoria_id": 5,
+    "valor": 9,
+    "notas": "ESMALTE MASGLO",
+    "id": 31,
+    "created_at": "2026-07-01T16:36:17.900Z",
+    "updated_at": "2026-07-01T16:36:17.900Z"
   }
 ]
