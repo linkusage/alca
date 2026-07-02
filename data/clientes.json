@@ -870,5 +870,15 @@
     "id": 110,
     "created_at": "2026-07-02T00:08:15.028Z",
     "updated_at": "2026-07-02T00:08:15.028Z"
+  },
+  {
+    "nombre": "GABRIELA",
+    "apellido": "VILLOTA",
+    "telefono": "304 3843343",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 111,
+    "created_at": "2026-07-02T00:14:30.864Z",
+    "updated_at": "2026-07-02T00:14:30.864Z"
   }
 ]
