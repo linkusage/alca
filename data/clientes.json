@@ -900,5 +900,15 @@
     "id": 113,
     "created_at": "2026-07-02T19:45:06.585Z",
     "updated_at": "2026-07-02T19:45:06.585Z"
+  },
+  {
+    "nombre": "ESTEFANIA RODRIGUEZ",
+    "apellido": "",
+    "telefono": "3013095909",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 114,
+    "created_at": "2026-07-02T23:00:59.716Z",
+    "updated_at": "2026-07-02T23:00:59.716Z"
   }
 ]
