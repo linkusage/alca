@@ -910,5 +910,15 @@
     "id": 114,
     "created_at": "2026-07-02T23:00:59.716Z",
     "updated_at": "2026-07-02T23:00:59.716Z"
+  },
+  {
+    "nombre": "MARIANA",
+    "apellido": "PINO",
+    "telefono": "3116117975",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 115,
+    "created_at": "2026-07-03T21:52:59.211Z",
+    "updated_at": "2026-07-03T21:52:59.211Z"
   }
 ]
