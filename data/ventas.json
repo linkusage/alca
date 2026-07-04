@@ -3159,21 +3159,21 @@
     "pagos": [
       {
         "metodo_pago_id": 2,
-        "monto": 210000,
+        "monto": 200000,
         "recargo": 0
       }
     ],
     "total_recargos": 0,
-    "total_cobrado": 210000,
+    "total_cobrado": 200000,
     "propinas": [],
     "total_propinas": 0,
-    "subtotal": 210000,
+    "subtotal": 200000,
     "total_descuentos": 0,
-    "total_final": 210000,
-    "total_comisiones": 98700,
-    "total_alca": 111300,
+    "total_final": 200000,
+    "total_comisiones": 94000,
+    "total_alca": 106000,
     "id": 154,
     "created_at": "2026-07-04T21:02:27.272Z",
-    "updated_at": "2026-07-04T21:02:27.272Z"
+    "updated_at": "2026-07-04T21:04:46.005Z"
   }
 ]
