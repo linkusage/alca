@@ -920,5 +920,15 @@
     "id": 115,
     "created_at": "2026-07-03T21:52:59.211Z",
     "updated_at": "2026-07-03T21:52:59.211Z"
+  },
+  {
+    "nombre": "Nancy Cardona",
+    "apellido": "",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 116,
+    "created_at": "2026-07-04T20:58:22.094Z",
+    "updated_at": "2026-07-04T20:58:22.094Z"
   }
 ]
