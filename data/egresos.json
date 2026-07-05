@@ -286,5 +286,14 @@
     "id": 32,
     "created_at": "2026-07-03T18:20:35.788Z",
     "updated_at": "2026-07-03T18:20:35.788Z"
+  },
+  {
+    "fecha": "2026-07-04",
+    "categoria_id": 9,
+    "valor": 30550,
+    "notas": "Servicio de fidelización de Abby por valor de 65.000 y pagamos el 47% del servicio",
+    "id": 33,
+    "created_at": "2026-07-05T00:44:02.495Z",
+    "updated_at": "2026-07-05T00:44:02.495Z"
   }
 ]
