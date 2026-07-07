@@ -322,5 +322,14 @@
     "id": 36,
     "created_at": "2026-07-07T15:54:44.386Z",
     "updated_at": "2026-07-07T15:54:44.386Z"
+  },
+  {
+    "fecha": "2026-07-07",
+    "categoria_id": 9,
+    "valor": 10000,
+    "notas": "tornillos y arandelas para los rodachines de los puf de pedicura",
+    "id": 37,
+    "created_at": "2026-07-07T15:55:09.812Z",
+    "updated_at": "2026-07-07T15:55:09.812Z"
   }
 ]
