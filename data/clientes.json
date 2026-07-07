@@ -960,5 +960,15 @@
     "id": 119,
     "created_at": "2026-07-07T19:38:07.645Z",
     "updated_at": "2026-07-07T19:38:07.645Z"
+  },
+  {
+    "nombre": "Maria Eugenia Velez",
+    "apellido": "",
+    "telefono": "301 5929446",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 120,
+    "created_at": "2026-07-07T20:53:52.540Z",
+    "updated_at": "2026-07-07T20:53:52.540Z"
   }
 ]
