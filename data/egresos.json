@@ -331,5 +331,14 @@
     "id": 37,
     "created_at": "2026-07-07T15:55:09.812Z",
     "updated_at": "2026-07-07T15:55:09.812Z"
+  },
+  {
+    "fecha": "2026-07-09",
+    "categoria_id": 5,
+    "valor": 270,
+    "notas": "PAQUETE DE TOALLITAS X3 - 2 BASE RUBBER -TOP COAT - BASE - REMOVEDOR - ACRYGEL X2 - ESMALTES X2",
+    "id": 38,
+    "created_at": "2026-07-09T16:39:25.312Z",
+    "updated_at": "2026-07-09T16:39:25.312Z"
   }
 ]
