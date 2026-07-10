@@ -3543,7 +3543,7 @@
   },
   {
     "fecha": "2026-07-09",
-    "cliente_id": 10,
+    "cliente_id": 73,
     "observaciones": "",
     "pagos": [
       {
@@ -3563,6 +3563,6 @@
     "total_alca": 68900,
     "id": 170,
     "created_at": "2026-07-10T00:18:09.422Z",
-    "updated_at": "2026-07-10T00:18:09.422Z"
+    "updated_at": "2026-07-10T00:18:51.281Z"
   }
 ]
