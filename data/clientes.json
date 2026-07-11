@@ -990,5 +990,15 @@
     "id": 122,
     "created_at": "2026-07-11T17:57:44.312Z",
     "updated_at": "2026-07-11T17:57:44.312Z"
+  },
+  {
+    "nombre": "VALENTINA",
+    "apellido": "GONZALEZZ",
+    "telefono": "323 9632795",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 123,
+    "created_at": "2026-07-11T21:35:18.994Z",
+    "updated_at": "2026-07-11T21:35:18.994Z"
   }
 ]
