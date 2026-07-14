@@ -4401,5 +4401,20 @@
     "id": 414,
     "created_at": "2026-07-14T19:56:50.425Z",
     "updated_at": "2026-07-14T19:56:50.425Z"
+  },
+  {
+    "servicio_id": 65,
+    "asesora_id": 1,
+    "precio_base": 5000,
+    "descuento_porcentaje": 0,
+    "valor_descuento": 0,
+    "precio_final": 5000,
+    "comision_porcentaje": 47,
+    "valor_comision": 2350,
+    "valor_alca": 2650,
+    "venta_id": 184,
+    "id": 415,
+    "created_at": "2026-07-14T20:21:44.290Z",
+    "updated_at": "2026-07-14T20:21:44.290Z"
   }
 ]
