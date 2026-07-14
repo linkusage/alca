@@ -4341,5 +4341,35 @@
     "id": 410,
     "created_at": "2026-07-14T17:03:01.286Z",
     "updated_at": "2026-07-14T17:03:01.286Z"
+  },
+  {
+    "servicio_id": 4,
+    "asesora_id": 1,
+    "precio_base": 115000,
+    "descuento_porcentaje": 0,
+    "valor_descuento": 0,
+    "precio_final": 115000,
+    "comision_porcentaje": 47,
+    "valor_comision": 54050,
+    "valor_alca": 60950,
+    "venta_id": 182,
+    "id": 411,
+    "created_at": "2026-07-14T19:38:45.660Z",
+    "updated_at": "2026-07-14T19:38:45.660Z"
+  },
+  {
+    "servicio_id": 75,
+    "asesora_id": 1,
+    "precio_base": 55000,
+    "descuento_porcentaje": 0,
+    "valor_descuento": 0,
+    "precio_final": 55000,
+    "comision_porcentaje": 47,
+    "valor_comision": 25850,
+    "valor_alca": 29150,
+    "venta_id": 182,
+    "id": 412,
+    "created_at": "2026-07-14T19:38:45.660Z",
+    "updated_at": "2026-07-14T19:38:45.660Z"
   }
 ]
