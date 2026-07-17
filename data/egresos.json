@@ -421,5 +421,14 @@
     "id": 47,
     "created_at": "2026-07-17T15:37:43.988Z",
     "updated_at": "2026-07-17T15:37:43.988Z"
+  },
+  {
+    "fecha": "2026-07-17",
+    "categoria_id": 2,
+    "valor": 90095,
+    "notas": "INTERNET CLARO",
+    "id": 48,
+    "created_at": "2026-07-17T23:25:38.681Z",
+    "updated_at": "2026-07-17T23:25:38.681Z"
   }
 ]
