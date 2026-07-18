@@ -990,5 +990,15 @@
     "id": 125,
     "created_at": "2026-07-18T16:32:14.402Z",
     "updated_at": "2026-07-18T16:32:14.402Z"
+  },
+  {
+    "nombre": "Sara Morales",
+    "apellido": "",
+    "telefono": "‎+57 302 3220107",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 126,
+    "created_at": "2026-07-18T18:23:06.965Z",
+    "updated_at": "2026-07-18T18:23:06.965Z"
   }
 ]
