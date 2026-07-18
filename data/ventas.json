@@ -4327,8 +4327,13 @@
     ],
     "total_recargos": 0,
     "total_cobrado": 200000,
-    "propinas": [],
-    "total_propinas": 0,
+    "propinas": [
+      {
+        "asesora_id": 1,
+        "monto": 10000
+      }
+    ],
+    "total_propinas": 10000,
     "subtotal": 200000,
     "total_descuentos": 0,
     "total_final": 200000,
@@ -4336,6 +4341,6 @@
     "total_alca": 106000,
     "id": 203,
     "created_at": "2026-07-18T19:22:54.983Z",
-    "updated_at": "2026-07-18T19:22:54.983Z"
+    "updated_at": "2026-07-18T19:23:48.278Z"
   }
 ]
