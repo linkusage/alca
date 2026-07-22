@@ -439,5 +439,14 @@
     "id": 49,
     "created_at": "2026-07-22T19:18:19.622Z",
     "updated_at": "2026-07-22T19:18:19.622Z"
+  },
+  {
+    "fecha": "2026-07-22",
+    "categoria_id": 5,
+    "valor": 111350,
+    "notas": "Paleta para callos x3 \nEsmalte masglo tiza x2\nEsmalte masglo fiesta\nSeparadores desechables paquete x100\nAlcohol x2\nExfoliante x2",
+    "id": 50,
+    "created_at": "2026-07-22T19:19:42.446Z",
+    "updated_at": "2026-07-22T19:19:42.446Z"
   }
 ]
