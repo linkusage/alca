@@ -475,5 +475,14 @@
     "id": 53,
     "created_at": "2026-07-23T21:21:26.023Z",
     "updated_at": "2026-07-23T21:21:26.023Z"
+  },
+  {
+    "fecha": "2026-07-24",
+    "categoria_id": 9,
+    "valor": 25800,
+    "notas": "Veneno para hormigas",
+    "id": 54,
+    "created_at": "2026-07-24T16:49:19.967Z",
+    "updated_at": "2026-07-24T16:49:19.967Z"
   }
 ]
