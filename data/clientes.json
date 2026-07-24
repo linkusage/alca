@@ -1040,5 +1040,15 @@
     "id": 130,
     "created_at": "2026-07-23T23:34:08.648Z",
     "updated_at": "2026-07-23T23:34:08.648Z"
+  },
+  {
+    "nombre": "LISA",
+    "apellido": "SUAREZ",
+    "telefono": "310 4594464",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 131,
+    "created_at": "2026-07-24T00:07:18.186Z",
+    "updated_at": "2026-07-24T00:07:18.186Z"
   }
 ]
