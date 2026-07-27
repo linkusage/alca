@@ -1070,5 +1070,15 @@
     "id": 133,
     "created_at": "2026-07-25T21:22:38.331Z",
     "updated_at": "2026-07-25T21:22:38.331Z"
+  },
+  {
+    "nombre": "MARIA CAMILA",
+    "apellido": "GIL RIVERA",
+    "telefono": "318 8462827",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 134,
+    "created_at": "2026-07-27T21:13:51.107Z",
+    "updated_at": "2026-07-27T21:13:51.107Z"
   }
 ]
