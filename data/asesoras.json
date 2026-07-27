@@ -46,5 +46,12 @@
     "created_at": "2026-06-16T05:48:02.714Z",
     "updated_at": "2026-06-16T06:53:55.097Z",
     "pass_hash": ""
+  },
+  {
+    "nombre": "Sofia",
+    "login_id": "SOF",
+    "id": 8,
+    "created_at": "2026-07-27T22:25:13.213Z",
+    "updated_at": "2026-07-27T22:25:13.213Z"
   }
 ]
