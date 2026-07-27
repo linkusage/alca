@@ -1080,5 +1080,15 @@
     "id": 134,
     "created_at": "2026-07-27T21:13:51.107Z",
     "updated_at": "2026-07-27T21:13:51.107Z"
+  },
+  {
+    "nombre": "LAURA",
+    "apellido": "ARIZA",
+    "telefono": "313 4961584",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 135,
+    "created_at": "2026-07-27T22:32:09.355Z",
+    "updated_at": "2026-07-27T22:32:09.355Z"
   }
 ]
