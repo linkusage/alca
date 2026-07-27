@@ -788,5 +788,15 @@
     "id": 82,
     "created_at": "2026-06-22T18:04:38.379Z",
     "updated_at": "2026-06-22T18:04:38.379Z"
+  },
+  {
+    "nombre": "Corte",
+    "categoria": "Otros",
+    "precio_base": 50,
+    "comision_porcentaje": 55,
+    "activo": true,
+    "id": 83,
+    "created_at": "2026-07-27T22:23:24.646Z",
+    "updated_at": "2026-07-27T22:23:24.646Z"
   }
 ]
