@@ -798,5 +798,15 @@
     "id": 83,
     "created_at": "2026-07-27T22:23:24.646Z",
     "updated_at": "2026-07-27T22:32:53.452Z"
+  },
+  {
+    "nombre": "Retoque montaje acrílico",
+    "categoria": "Uñas",
+    "precio_base": 100000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "id": 84,
+    "created_at": "2026-07-29T20:40:25.248Z",
+    "updated_at": "2026-07-29T20:40:25.248Z"
   }
 ]
