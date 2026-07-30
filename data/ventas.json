@@ -5344,21 +5344,21 @@
     "pagos": [
       {
         "metodo_pago_id": 2,
-        "monto": 145000,
+        "monto": 125000,
         "recargo": 0
       }
     ],
     "total_recargos": 0,
-    "total_cobrado": 145000,
+    "total_cobrado": 125000,
     "propinas": [],
     "total_propinas": 0,
-    "subtotal": 145000,
+    "subtotal": 125000,
     "total_descuentos": 0,
-    "total_final": 145000,
-    "total_comisiones": 68150,
-    "total_alca": 76850,
+    "total_final": 125000,
+    "total_comisiones": 58750,
+    "total_alca": 66250,
     "id": 245,
     "created_at": "2026-07-30T23:59:17.223Z",
-    "updated_at": "2026-07-30T23:59:17.223Z"
+    "updated_at": "2026-07-30T23:59:52.278Z"
   }
 ]
