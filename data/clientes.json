@@ -1130,5 +1130,15 @@
     "id": 139,
     "created_at": "2026-08-02T03:07:33.471Z",
     "updated_at": "2026-08-02T03:07:33.471Z"
+  },
+  {
+    "nombre": "PAOLA",
+    "apellido": "RODRIGUEZ",
+    "telefono": "317 5620175",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 140,
+    "created_at": "2026-08-03T20:50:32.600Z",
+    "updated_at": "2026-08-03T20:50:32.600Z"
   }
 ]
