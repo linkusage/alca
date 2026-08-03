@@ -1140,5 +1140,15 @@
     "id": 140,
     "created_at": "2026-08-03T20:50:32.600Z",
     "updated_at": "2026-08-03T20:50:32.600Z"
+  },
+  {
+    "nombre": "MABEL",
+    "apellido": "ZAPATA",
+    "telefono": "311 6316701",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 141,
+    "created_at": "2026-08-03T21:38:58.555Z",
+    "updated_at": "2026-08-03T21:38:58.555Z"
   }
 ]
