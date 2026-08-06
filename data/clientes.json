@@ -1150,5 +1150,15 @@
     "id": 141,
     "created_at": "2026-08-03T21:38:58.555Z",
     "updated_at": "2026-08-03T21:38:58.555Z"
+  },
+  {
+    "nombre": "JUANITA",
+    "apellido": "JIMENEZ",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 142,
+    "created_at": "2026-08-06T21:15:47.689Z",
+    "updated_at": "2026-08-06T21:15:47.689Z"
   }
 ]
