@@ -1190,5 +1190,15 @@
     "id": 145,
     "created_at": "2026-08-12T15:37:01.644Z",
     "updated_at": "2026-08-12T15:37:01.644Z"
+  },
+  {
+    "nombre": "NATALIA",
+    "apellido": "PINEDA",
+    "telefono": "+41 76 610 31 78",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 146,
+    "created_at": "2026-08-12T21:18:48.794Z",
+    "updated_at": "2026-08-12T21:18:48.794Z"
   }
 ]
