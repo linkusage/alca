@@ -529,5 +529,14 @@
     "id": 59,
     "created_at": "2026-08-10T22:33:25.910Z",
     "updated_at": "2026-08-10T22:33:25.910Z"
+  },
+  {
+    "fecha": "2026-08-14",
+    "categoria_id": 7,
+    "valor": 41350,
+    "notas": "Bolsas - 2 vinos",
+    "id": 60,
+    "created_at": "2026-08-14T16:39:55.909Z",
+    "updated_at": "2026-08-14T16:39:55.909Z"
   }
 ]
