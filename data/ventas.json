@@ -6381,17 +6381,17 @@
     "pagos": [
       {
         "metodo_pago_id": 3,
-        "monto": 141750,
-        "recargo": 6750
+        "monto": 189000,
+        "recargo": 9000
       },
       {
         "metodo_pago_id": 2,
-        "monto": 65000,
+        "monto": 20000,
         "recargo": 0
       }
     ],
-    "total_recargos": 6750,
-    "total_cobrado": 206750,
+    "total_recargos": 9000,
+    "total_cobrado": 209000,
     "propinas": [],
     "total_propinas": 0,
     "subtotal": 200000,
@@ -6401,6 +6401,6 @@
     "total_alca": 106000,
     "id": 288,
     "created_at": "2026-08-14T22:35:56.492Z",
-    "updated_at": "2026-08-14T22:35:56.492Z"
+    "updated_at": "2026-08-14T22:47:35.970Z"
   }
 ]
