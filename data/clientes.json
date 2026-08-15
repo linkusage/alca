@@ -1200,5 +1200,15 @@
     "id": 146,
     "created_at": "2026-08-12T21:18:48.794Z",
     "updated_at": "2026-08-12T21:18:48.794Z"
+  },
+  {
+    "nombre": "CELESTE",
+    "apellido": "GRANADA",
+    "telefono": "321 6157555",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 147,
+    "created_at": "2026-08-15T20:38:31.663Z",
+    "updated_at": "2026-08-15T20:38:31.663Z"
   }
 ]
