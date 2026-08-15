@@ -6458,21 +6458,21 @@
     "pagos": [
       {
         "metodo_pago_id": 2,
-        "monto": 70000,
+        "monto": 56000,
         "recargo": 0
       }
     ],
     "total_recargos": 0,
-    "total_cobrado": 70000,
+    "total_cobrado": 56000,
     "propinas": [],
     "total_propinas": 0,
-    "subtotal": 70000,
+    "subtotal": 56000,
     "total_descuentos": 0,
-    "total_final": 70000,
-    "total_comisiones": 32900,
-    "total_alca": 37100,
+    "total_final": 56000,
+    "total_comisiones": 26320,
+    "total_alca": 29680,
     "id": 291,
     "created_at": "2026-08-15T00:22:32.864Z",
-    "updated_at": "2026-08-15T00:22:32.864Z"
+    "updated_at": "2026-08-15T00:25:12.150Z"
   }
 ]
