@@ -1210,5 +1210,15 @@
     "id": 147,
     "created_at": "2026-08-15T20:38:31.663Z",
     "updated_at": "2026-08-15T20:38:31.663Z"
+  },
+  {
+    "nombre": "ALEXANDER",
+    "apellido": "AREVALO",
+    "telefono": "300 2944531",
+    "email": "",
+    "fecha_nacimiento": "",
+    "id": 148,
+    "created_at": "2026-08-15T23:58:41.184Z",
+    "updated_at": "2026-08-15T23:58:41.184Z"
   }
 ]
