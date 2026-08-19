@@ -556,5 +556,14 @@
     "id": 62,
     "created_at": "2026-08-15T22:29:32.754Z",
     "updated_at": "2026-08-15T22:29:32.754Z"
+  },
+  {
+    "fecha": "2026-08-19",
+    "categoria_id": 7,
+    "valor": 50000,
+    "notas": "Ambientadores, fabuloso, salero",
+    "id": 63,
+    "created_at": "2026-08-19T17:53:43.768Z",
+    "updated_at": "2026-08-19T17:53:43.768Z"
   }
 ]
