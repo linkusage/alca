@@ -612,12 +612,12 @@
   {
     "id": 66,
     "nombre": "Apliques c/u",
-    "categoria": "Otros",
+    "categoria": "Uñas",
     "precio_base": 3000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-08-25T20:33:37.048Z"
   },
   {
     "id": 67,
