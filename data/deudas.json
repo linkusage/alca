@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "deudor": "Herrera",
+    "monto_inicial": 45660000,
+    "fecha": "2026-06-01",
+    "tasa_interes": 1.5,
+    "frecuencia": "Mensual",
+    "cuota": 1700000,
+    "plazo": 35,
+    "modo": "calc_plazo",
+    "pagos": [],
+    "id": 1,
+    "created_at": "2026-08-25T20:26:10.644Z",
+    "updated_at": "2026-08-25T20:26:10.644Z"
+  }
+]
