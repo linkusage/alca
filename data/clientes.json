@@ -333,7 +333,12 @@
     "nombre": "Julian",
     "id": 56,
     "created_at": "2026-06-13T23:20:51.682Z",
-    "updated_at": "2026-06-13T23:20:51.682Z"
+    "updated_at": "2026-08-25T20:39:33.410Z",
+    "apellido": "",
+    "cedula": "",
+    "telefono": "",
+    "fecha_nacimiento": "",
+    "alianza_id": 1
   },
   {
     "nombre": "LAURA",
