@@ -622,12 +622,12 @@
   {
     "id": 67,
     "nombre": "Decoración (desde)",
-    "categoria": "Otros",
+    "categoria": "Uñas",
     "precio_base": 5000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-08-26T18:28:41.167Z"
   },
   {
     "id": 68,
