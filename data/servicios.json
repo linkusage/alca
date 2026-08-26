@@ -782,12 +782,12 @@
   {
     "nombre": "Corte",
     "categoria": "Otros",
-    "precio_base": 50000,
+    "precio_base": 25000,
     "comision_porcentaje": 55,
     "activo": true,
     "id": 83,
     "created_at": "2026-07-27T22:23:24.646Z",
-    "updated_at": "2026-07-27T22:32:53.452Z"
+    "updated_at": "2026-08-26T18:50:18.033Z"
   },
   {
     "nombre": "Retoque montaje acrílico",
