@@ -711,13 +711,13 @@
   },
   {
     "nombre": "Set tradicional",
-    "categoria": "Otros",
+    "categoria": "Uñas",
     "precio_base": 65000,
     "comision_porcentaje": 47,
     "activo": true,
     "id": 76,
     "created_at": "2026-06-15T23:06:25.165Z",
-    "updated_at": "2026-06-15T23:06:25.165Z"
+    "updated_at": "2026-08-26T18:29:52.727Z"
   },
   {
     "nombre": "Hairstylist",
