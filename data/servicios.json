@@ -552,12 +552,12 @@
   {
     "id": 60,
     "nombre": "Patillas y mejillas con hilo o cera",
-    "categoria": "Otros",
+    "categoria": "Cejas",
     "precio_base": 25000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-08-26T18:32:06.169Z"
   },
   {
     "id": 61,
