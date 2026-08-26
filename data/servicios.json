@@ -542,12 +542,12 @@
   {
     "id": 59,
     "nombre": "Barbilla con hilo o cera",
-    "categoria": "Otros",
+    "categoria": "Cejas",
     "precio_base": 15000,
     "comision_porcentaje": 47,
     "activo": true,
     "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
+    "updated_at": "2026-08-26T18:31:54.913Z"
   },
   {
     "id": 60,
