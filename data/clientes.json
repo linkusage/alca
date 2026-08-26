@@ -1225,5 +1225,16 @@
     "id": 150,
     "created_at": "2026-08-22T21:34:11.103Z",
     "updated_at": "2026-08-22T21:34:11.103Z"
+  },
+  {
+    "nombre": "CAMILA",
+    "apellido": "GALLEGO",
+    "telefono": "300 5302089",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 151,
+    "created_at": "2026-08-26T18:56:54.456Z",
+    "updated_at": "2026-08-26T18:56:54.456Z"
   }
 ]
