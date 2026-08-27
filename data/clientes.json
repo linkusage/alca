@@ -1280,5 +1280,16 @@
     "id": 155,
     "created_at": "2026-08-27T19:03:26.972Z",
     "updated_at": "2026-08-27T19:03:26.972Z"
+  },
+  {
+    "nombre": "ANDREA",
+    "apellido": "RODRIGUEZ",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 156,
+    "created_at": "2026-08-27T23:37:10.595Z",
+    "updated_at": "2026-08-27T23:37:10.595Z"
   }
 ]
