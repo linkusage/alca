@@ -330,16 +330,6 @@
     "updated_at": "2026-06-13T22:01:53.471221+00:00"
   },
   {
-    "id": 37,
-    "nombre": "Retoque fibra tecnológica",
-    "categoria": "Pestañas",
-    "precio_base": 90000,
-    "comision_porcentaje": 47,
-    "activo": true,
-    "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
-  },
-  {
     "id": 38,
     "nombre": "Montaje pestañas híbridas / húmedo / wispy",
     "categoria": "Pestañas",
