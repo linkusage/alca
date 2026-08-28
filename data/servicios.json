@@ -810,16 +810,6 @@
     "updated_at": "2026-08-27T20:26:50.753Z"
   },
   {
-    "nombre": "Montaje pestañas clásicas ( fibra tecnologíca)",
-    "categoria": "Pestañas",
-    "precio_base": 135000,
-    "comision_porcentaje": 47,
-    "activo": true,
-    "id": 87,
-    "created_at": "2026-08-27T20:28:09.484Z",
-    "updated_at": "2026-08-27T20:28:09.484Z"
-  },
-  {
     "nombre": "Montaje Pestañas Premiun",
     "categoria": "Pestañas",
     "precio_base": 120000,
