@@ -1302,5 +1302,16 @@
     "id": 157,
     "created_at": "2026-08-28T01:01:10.099Z",
     "updated_at": "2026-08-28T01:01:10.099Z"
+  },
+  {
+    "nombre": "SOFIA",
+    "apellido": "LOPERA",
+    "telefono": "TOBON",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 158,
+    "created_at": "2026-08-28T16:25:58.107Z",
+    "updated_at": "2026-08-28T16:25:58.107Z"
   }
 ]
