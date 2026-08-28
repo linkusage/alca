@@ -330,16 +330,6 @@
     "updated_at": "2026-06-13T22:01:53.471221+00:00"
   },
   {
-    "id": 36,
-    "nombre": "Montaje pestañas fibra tecnológica",
-    "categoria": "Pestañas",
-    "precio_base": 170000,
-    "comision_porcentaje": 47,
-    "activo": true,
-    "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-06-13T22:01:53.471221+00:00"
-  },
-  {
     "id": 37,
     "nombre": "Retoque fibra tecnológica",
     "categoria": "Pestañas",
