@@ -7592,11 +7592,11 @@
     "subtotal": 150000,
     "total_descuentos": 19500,
     "total_final": 130500,
-    "total_comisiones": 32625,
-    "total_alca": 97875,
+    "total_comisiones": 61335,
+    "total_alca": 69165,
     "id": 337,
     "created_at": "2026-08-28T01:08:36.114Z",
-    "updated_at": "2026-08-28T01:08:36.114Z"
+    "updated_at": "2026-08-28T22:58:55.909Z"
   },
   {
     "fecha": "2026-08-28",
