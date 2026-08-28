@@ -1346,5 +1346,16 @@
     "id": 161,
     "created_at": "2026-08-28T23:02:19.667Z",
     "updated_at": "2026-08-28T23:02:19.667Z"
+  },
+  {
+    "nombre": "ANA MARIA",
+    "apellido": "OSPINA",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 162,
+    "created_at": "2026-08-28T23:20:10.698Z",
+    "updated_at": "2026-08-28T23:20:10.698Z"
   }
 ]
