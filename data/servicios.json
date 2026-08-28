@@ -250,16 +250,6 @@
     "updated_at": "2026-06-13T22:01:53.471221+00:00"
   },
   {
-    "id": 27,
-    "nombre": "Retoque clásicas",
-    "categoria": "Pestañas",
-    "precio_base": 70000,
-    "comision_porcentaje": 47,
-    "activo": true,
-    "created_at": "2026-06-13T22:01:53.471221+00:00",
-    "updated_at": "2026-08-27T20:26:25.626Z"
-  },
-  {
     "id": 28,
     "nombre": "Montaje pestañas tipo pestañina",
     "categoria": "Pestañas",
