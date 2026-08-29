@@ -1357,5 +1357,16 @@
     "id": 162,
     "created_at": "2026-08-28T23:20:10.698Z",
     "updated_at": "2026-08-28T23:20:10.698Z"
+  },
+  {
+    "nombre": "Stephania Lopera Uribe",
+    "apellido": "",
+    "telefono": "‎+57 313 6810636",
+    "email": "",
+    "fecha_nacimiento": "1994-11-24",
+    "alianza_id": null,
+    "id": 163,
+    "created_at": "2026-08-29T17:36:05.348Z",
+    "updated_at": "2026-08-29T17:36:05.348Z"
   }
 ]
