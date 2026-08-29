@@ -1379,5 +1379,16 @@
     "id": 164,
     "created_at": "2026-08-29T17:47:45.831Z",
     "updated_at": "2026-08-29T17:47:45.831Z"
+  },
+  {
+    "nombre": "Franklin Patiño",
+    "apellido": "",
+    "telefono": "‎+57 313 6670190",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 165,
+    "created_at": "2026-08-29T19:48:45.912Z",
+    "updated_at": "2026-08-29T19:48:45.912Z"
   }
 ]
