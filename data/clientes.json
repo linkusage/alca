@@ -1401,5 +1401,16 @@
     "id": 166,
     "created_at": "2026-08-29T21:24:06.572Z",
     "updated_at": "2026-08-29T21:24:06.572Z"
+  },
+  {
+    "nombre": "Kamila Luna",
+    "apellido": "",
+    "telefono": "‎+57 311 8833709",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 167,
+    "created_at": "2026-08-31T23:48:49.202Z",
+    "updated_at": "2026-08-31T23:48:49.202Z"
   }
 ]
