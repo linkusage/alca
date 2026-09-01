@@ -1434,5 +1434,16 @@
     "id": 169,
     "created_at": "2026-09-01T00:15:31.629Z",
     "updated_at": "2026-09-01T00:15:31.629Z"
+  },
+  {
+    "nombre": "CATALINA",
+    "apellido": "VELASQUEZ",
+    "telefono": "300 7496746",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 170,
+    "created_at": "2026-09-01T22:13:31.276Z",
+    "updated_at": "2026-09-01T22:13:31.276Z"
   }
 ]
