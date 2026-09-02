@@ -677,10 +677,10 @@
   {
     "fecha": "2026-09-02",
     "categoria_id": 5,
-    "valor": 122,
+    "valor": 122000,
     "notas": "2 bases semi, ice tea 12, top mate, esmalte ojo de gato rojo",
     "id": 76,
     "created_at": "2026-09-02T17:11:36.074Z",
-    "updated_at": "2026-09-02T17:11:36.074Z"
+    "updated_at": "2026-09-02T17:11:52.634Z"
   }
 ]
