@@ -700,5 +700,14 @@
     "id": 78,
     "created_at": "2026-09-03T16:54:24.555Z",
     "updated_at": "2026-09-03T16:54:24.555Z"
+  },
+  {
+    "fecha": "2026-09-04",
+    "categoria_id": 6,
+    "valor": 61500,
+    "notas": "2 cajas nagaraku mixtas 0.07c, 1 lapicero gel gris, 1 aplicadores cera, domicilio",
+    "id": 79,
+    "created_at": "2026-09-04T16:41:37.415Z",
+    "updated_at": "2026-09-04T16:41:37.415Z"
   }
 ]
