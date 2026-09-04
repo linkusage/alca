@@ -1445,5 +1445,16 @@
     "id": 170,
     "created_at": "2026-09-01T22:13:31.276Z",
     "updated_at": "2026-09-01T22:13:31.276Z"
+  },
+  {
+    "nombre": "ANDREA",
+    "apellido": "OCHOA",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 171,
+    "created_at": "2026-09-04T15:22:37.088Z",
+    "updated_at": "2026-09-04T15:22:37.088Z"
   }
 ]
