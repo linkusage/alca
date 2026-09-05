@@ -8377,7 +8377,7 @@
     "observaciones": "",
     "pagos": [
       {
-        "metodo_pago_id": 2,
+        "metodo_pago_id": 1,
         "monto": 95000,
         "recargo": 0
       }
@@ -8393,6 +8393,6 @@
     "total_alca": 50350,
     "id": 371,
     "created_at": "2026-09-04T23:52:41.236Z",
-    "updated_at": "2026-09-04T23:52:41.236Z"
+    "updated_at": "2026-09-05T00:00:23.418Z"
   }
 ]
