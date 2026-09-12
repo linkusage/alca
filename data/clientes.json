@@ -1511,5 +1511,16 @@
     "id": 176,
     "created_at": "2026-09-11T19:38:24.883Z",
     "updated_at": "2026-09-11T19:38:24.883Z"
+  },
+  {
+    "nombre": "Katrin Fernandez",
+    "apellido": "",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 177,
+    "created_at": "2026-09-12T17:00:27.362Z",
+    "updated_at": "2026-09-12T17:00:27.362Z"
   }
 ]
