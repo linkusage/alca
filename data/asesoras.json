@@ -71,9 +71,10 @@
   },
   {
     "nombre": "Lis",
-    "login_id": "LIS123",
+    "login_id": "LIS",
     "id": 11,
     "created_at": "2026-09-04T15:17:59.273Z",
-    "updated_at": "2026-09-12T00:03:41.178Z"
+    "updated_at": "2026-09-12T00:05:16.206Z",
+    "pass_hash": "CEgsWzssgXdeqg9_SpIsQFJ0aTLTeZBHizEgb-DCwYY"
   }
 ]
