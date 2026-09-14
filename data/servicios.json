@@ -791,12 +791,12 @@
   },
   {
     "nombre": "Lifting Koreano",
-    "categoria": "Cejas",
+    "categoria": "Pestañas",
     "precio_base": 150000,
     "comision_porcentaje": 47,
     "activo": true,
     "id": 90,
     "created_at": "2026-09-14T23:08:14.136Z",
-    "updated_at": "2026-09-14T23:08:14.136Z"
+    "updated_at": "2026-09-14T23:08:33.033Z"
   }
 ]
