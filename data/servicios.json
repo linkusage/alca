@@ -808,5 +808,15 @@
     "id": 91,
     "created_at": "2026-09-14T23:12:38.649Z",
     "updated_at": "2026-09-14T23:12:38.649Z"
+  },
+  {
+    "nombre": "Corte Plumilla",
+    "categoria": "Otros",
+    "precio_base": 30000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "id": 92,
+    "created_at": "2026-09-14T23:13:43.886Z",
+    "updated_at": "2026-09-14T23:13:43.886Z"
   }
 ]
