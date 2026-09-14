@@ -788,5 +788,15 @@
     "id": 89,
     "created_at": "2026-08-28T01:05:03.228Z",
     "updated_at": "2026-08-28T01:05:03.228Z"
+  },
+  {
+    "nombre": "Lifting Koreano",
+    "categoria": "Cejas",
+    "precio_base": 150000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "id": 90,
+    "created_at": "2026-09-14T23:08:14.136Z",
+    "updated_at": "2026-09-14T23:08:14.136Z"
   }
 ]
