@@ -740,14 +740,14 @@
     "updated_at": "2026-06-22T18:04:38.379Z"
   },
   {
-    "nombre": "Corte Cabello",
+    "nombre": "Corte Puntas",
     "categoria": "Otros",
     "precio_base": 25000,
     "comision_porcentaje": 55,
     "activo": true,
     "id": 83,
     "created_at": "2026-07-27T22:23:24.646Z",
-    "updated_at": "2026-08-26T18:51:29.004Z"
+    "updated_at": "2026-09-14T23:12:06.585Z"
   },
   {
     "nombre": "Retoque montaje acrílico",
