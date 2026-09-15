@@ -745,5 +745,14 @@
     "id": 83,
     "created_at": "2026-09-15T15:35:32.421Z",
     "updated_at": "2026-09-15T15:35:32.421Z"
+  },
+  {
+    "fecha": "2026-09-15",
+    "categoria_id": 5,
+    "valor": 130800,
+    "notas": "Rollo Wypall",
+    "id": 84,
+    "created_at": "2026-09-15T15:56:51.395Z",
+    "updated_at": "2026-09-15T15:56:51.395Z"
   }
 ]
