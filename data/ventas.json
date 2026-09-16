@@ -9061,8 +9061,13 @@
     ],
     "total_recargos": 0,
     "total_cobrado": 145000,
-    "propinas": [],
-    "total_propinas": 0,
+    "propinas": [
+      {
+        "asesora_id": 1,
+        "monto": 30000
+      }
+    ],
+    "total_propinas": 30000,
     "subtotal": 145000,
     "total_descuentos": 0,
     "total_final": 145000,
@@ -9070,7 +9075,7 @@
     "total_alca": 76850,
     "id": 399,
     "created_at": "2026-09-15T23:13:39.060Z",
-    "updated_at": "2026-09-15T23:13:39.060Z"
+    "updated_at": "2026-09-16T19:18:32.765Z"
   },
   {
     "fecha": "2026-09-15",
