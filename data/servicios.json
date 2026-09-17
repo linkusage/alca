@@ -828,5 +828,15 @@
     "id": 93,
     "created_at": "2026-09-14T23:14:12.158Z",
     "updated_at": "2026-09-14T23:14:12.158Z"
+  },
+  {
+    "nombre": "Montaje pestañas fibra tecnologíca",
+    "categoria": "Pestañas",
+    "precio_base": 170000,
+    "comision_porcentaje": 47,
+    "activo": true,
+    "id": 94,
+    "created_at": "2026-09-17T17:56:02.114Z",
+    "updated_at": "2026-09-17T17:56:02.114Z"
   }
 ]
