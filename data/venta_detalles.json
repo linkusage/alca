@@ -9777,5 +9777,20 @@
     "id": 786,
     "created_at": "2026-09-17T22:55:25.413Z",
     "updated_at": "2026-09-17T22:55:25.413Z"
+  },
+  {
+    "servicio_id": 76,
+    "asesora_id": 9,
+    "precio_base": 65000,
+    "descuento_porcentaje": 0,
+    "valor_descuento": 0,
+    "precio_final": 65000,
+    "comision_porcentaje": 47,
+    "valor_comision": 30550,
+    "valor_alca": 34450,
+    "venta_id": 409,
+    "id": 787,
+    "created_at": "2026-09-17T23:38:45.209Z",
+    "updated_at": "2026-09-17T23:38:45.209Z"
   }
 ]
