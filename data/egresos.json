@@ -799,5 +799,14 @@
     "id": 89,
     "created_at": "2026-09-18T17:59:14.261Z",
     "updated_at": "2026-09-18T17:59:14.261Z"
+  },
+  {
+    "fecha": "2026-09-18",
+    "categoria_id": 9,
+    "valor": 48000,
+    "notas": "Detalles amor y amistad clientes x16 unidades",
+    "id": 90,
+    "created_at": "2026-09-18T21:37:53.431Z",
+    "updated_at": "2026-09-18T21:37:53.431Z"
   }
 ]
