@@ -808,5 +808,14 @@
     "id": 90,
     "created_at": "2026-09-18T21:37:53.431Z",
     "updated_at": "2026-09-18T21:37:53.431Z"
+  },
+  {
+    "fecha": "2026-09-18",
+    "categoria_id": 8,
+    "valor": 28.2,
+    "notas": "Servicio Mariana Posada, publicidad (ana)",
+    "id": 91,
+    "created_at": "2026-09-18T22:36:01.777Z",
+    "updated_at": "2026-09-18T22:36:01.777Z"
   }
 ]
