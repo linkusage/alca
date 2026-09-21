@@ -1588,5 +1588,16 @@
     "id": 183,
     "created_at": "2026-09-21T23:19:07.245Z",
     "updated_at": "2026-09-21T23:19:07.245Z"
+  },
+  {
+    "nombre": "DANIELA",
+    "apellido": "MOLINA",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 184,
+    "created_at": "2026-09-21T23:21:21.591Z",
+    "updated_at": "2026-09-21T23:21:21.591Z"
   }
 ]
