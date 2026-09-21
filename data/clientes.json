@@ -1577,5 +1577,16 @@
     "id": 182,
     "created_at": "2026-09-21T20:27:30.778Z",
     "updated_at": "2026-09-21T20:27:30.778Z"
+  },
+  {
+    "nombre": "MANUELA",
+    "apellido": "MONSALVE",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 183,
+    "created_at": "2026-09-21T23:19:07.245Z",
+    "updated_at": "2026-09-21T23:19:07.245Z"
   }
 ]
