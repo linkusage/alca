@@ -1632,5 +1632,16 @@
     "id": 187,
     "created_at": "2026-09-25T00:38:22.581Z",
     "updated_at": "2026-09-25T00:38:22.581Z"
+  },
+  {
+    "nombre": "Luisa Giraldo",
+    "apellido": "",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 188,
+    "created_at": "2026-09-25T22:06:07.042Z",
+    "updated_at": "2026-09-25T22:06:07.042Z"
   }
 ]
