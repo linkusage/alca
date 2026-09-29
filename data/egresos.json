@@ -934,5 +934,14 @@
     "id": 104,
     "created_at": "2026-09-29T13:33:33.338Z",
     "updated_at": "2026-09-29T13:33:33.338Z"
+  },
+  {
+    "fecha": "2026-09-29",
+    "categoria_id": 5,
+    "valor": 73000,
+    "notas": "Caja de guantes X3",
+    "id": 105,
+    "created_at": "2026-09-29T13:34:31.570Z",
+    "updated_at": "2026-09-29T13:34:31.570Z"
   }
 ]
