@@ -1676,5 +1676,16 @@
     "id": 191,
     "created_at": "2026-09-29T23:47:40.841Z",
     "updated_at": "2026-09-29T23:47:40.841Z"
+  },
+  {
+    "nombre": "DIANA ZULUAGA",
+    "apellido": "",
+    "telefono": "‎+57 321 7512240",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 192,
+    "created_at": "2026-10-01T22:38:29.204Z",
+    "updated_at": "2026-10-01T22:38:29.204Z"
   }
 ]
