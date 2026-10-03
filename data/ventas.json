@@ -10627,5 +10627,29 @@
     "id": 463,
     "created_at": "2026-10-02T23:05:03.642Z",
     "updated_at": "2026-10-02T23:05:03.642Z"
+  },
+  {
+    "fecha": "2026-10-02",
+    "cliente_id": 155,
+    "observaciones": "",
+    "pagos": [
+      {
+        "metodo_pago_id": 1,
+        "monto": 280000,
+        "recargo": 0
+      }
+    ],
+    "total_recargos": 0,
+    "total_cobrado": 280000,
+    "propinas": [],
+    "total_propinas": 0,
+    "subtotal": 280000,
+    "total_descuentos": 0,
+    "total_final": 280000,
+    "total_comisiones": 131600,
+    "total_alca": 148400,
+    "id": 464,
+    "created_at": "2026-10-03T00:38:31.481Z",
+    "updated_at": "2026-10-03T00:38:31.481Z"
   }
 ]
