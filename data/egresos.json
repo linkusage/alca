@@ -1006,5 +1006,14 @@
     "id": 112,
     "created_at": "2026-10-06T22:42:56.628Z",
     "updated_at": "2026-10-07T15:24:51.144Z"
+  },
+  {
+    "fecha": "2026-10-07",
+    "categoria_id": 5,
+    "valor": 11000,
+    "notas": "Toallas sin pelusa",
+    "id": 113,
+    "created_at": "2026-10-07T15:25:46.570Z",
+    "updated_at": "2026-10-07T15:25:46.570Z"
   }
 ]
