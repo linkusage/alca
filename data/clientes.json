@@ -1742,5 +1742,16 @@
     "id": 197,
     "created_at": "2026-10-08T00:03:41.781Z",
     "updated_at": "2026-10-08T00:03:41.781Z"
+  },
+  {
+    "nombre": "Luz Marina Gaviria Correa",
+    "apellido": "",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 198,
+    "created_at": "2026-10-08T16:25:22.965Z",
+    "updated_at": "2026-10-08T16:25:22.965Z"
   }
 ]
