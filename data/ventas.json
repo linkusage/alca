@@ -10899,22 +10899,22 @@
     "pagos": [
       {
         "metodo_pago_id": 1,
-        "monto": 35000,
+        "monto": 65000,
         "recargo": 0
       }
     ],
     "total_recargos": 0,
-    "total_cobrado": 35000,
+    "total_cobrado": 65000,
     "propinas": [],
     "total_propinas": 0,
-    "subtotal": 35000,
+    "subtotal": 65000,
     "total_descuentos": 0,
-    "total_final": 35000,
-    "total_comisiones": 16450,
-    "total_alca": 18550,
+    "total_final": 65000,
+    "total_comisiones": 30550,
+    "total_alca": 34450,
     "id": 475,
     "created_at": "2026-10-07T22:13:38.087Z",
-    "updated_at": "2026-10-07T22:13:38.087Z"
+    "updated_at": "2026-10-08T00:05:58.555Z"
   },
   {
     "fecha": "2026-10-07",
