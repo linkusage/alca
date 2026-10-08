@@ -1731,5 +1731,16 @@
     "id": 196,
     "created_at": "2026-10-07T22:07:35.641Z",
     "updated_at": "2026-10-07T22:07:35.641Z"
+  },
+  {
+    "nombre": "Xiomara Pérez Zapata",
+    "apellido": "",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 197,
+    "created_at": "2026-10-08T00:03:41.781Z",
+    "updated_at": "2026-10-08T00:03:41.781Z"
   }
 ]
