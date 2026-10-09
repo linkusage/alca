@@ -1753,5 +1753,16 @@
     "id": 198,
     "created_at": "2026-10-08T16:25:22.965Z",
     "updated_at": "2026-10-08T16:25:22.965Z"
+  },
+  {
+    "nombre": "Mayra Alejandra Rivera",
+    "apellido": "",
+    "telefono": "310 3336695",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 199,
+    "created_at": "2026-10-09T22:31:17.629Z",
+    "updated_at": "2026-10-09T22:31:17.629Z"
   }
 ]
