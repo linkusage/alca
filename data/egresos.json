@@ -1069,5 +1069,14 @@
     "id": 119,
     "created_at": "2026-10-10T14:19:37.929Z",
     "updated_at": "2026-10-10T14:19:37.929Z"
+  },
+  {
+    "fecha": "2026-10-13",
+    "categoria_id": 8,
+    "valor": 50000,
+    "notas": "Makeup publicidad Antonia",
+    "id": 120,
+    "created_at": "2026-10-13T23:48:35.685Z",
+    "updated_at": "2026-10-13T23:48:35.685Z"
   }
 ]
