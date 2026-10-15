@@ -1082,10 +1082,10 @@
   {
     "fecha": "2026-10-15",
     "categoria_id": 5,
-    "valor": 141868,
-    "notas": "Xtrabond x4",
+    "valor": 158168,
+    "notas": "Xtrabond x4 + domicilio",
     "id": 121,
     "created_at": "2026-10-15T16:47:15.811Z",
-    "updated_at": "2026-10-15T16:47:15.811Z"
+    "updated_at": "2026-10-15T21:24:07.889Z"
   }
 ]
