@@ -1105,5 +1105,14 @@
     "id": 123,
     "created_at": "2026-10-19T19:43:50.696Z",
     "updated_at": "2026-10-19T19:43:50.696Z"
+  },
+  {
+    "fecha": "2026-10-19",
+    "categoria_id": 9,
+    "valor": 80,
+    "notas": "Arreglo microondas",
+    "id": 124,
+    "created_at": "2026-10-19T19:44:06.975Z",
+    "updated_at": "2026-10-19T19:44:06.975Z"
   }
 ]
