@@ -12648,36 +12648,6 @@
     "updated_at": "2026-10-21T00:42:40.162Z"
   },
   {
-    "servicio_id": 11,
-    "asesora_id": 1,
-    "precio_base": 85000,
-    "descuento_porcentaje": 0,
-    "valor_descuento": 0,
-    "precio_final": 85000,
-    "comision_porcentaje": 47,
-    "valor_comision": 39950,
-    "valor_alca": 45050,
-    "venta_id": 522,
-    "id": 985,
-    "created_at": "2026-10-22T20:14:24.015Z",
-    "updated_at": "2026-10-22T20:14:24.015Z"
-  },
-  {
-    "servicio_id": 65,
-    "asesora_id": 1,
-    "precio_base": 10000,
-    "descuento_porcentaje": 0,
-    "valor_descuento": 0,
-    "precio_final": 10000,
-    "comision_porcentaje": 47,
-    "valor_comision": 4700,
-    "valor_alca": 5300,
-    "venta_id": 522,
-    "id": 986,
-    "created_at": "2026-10-22T20:14:24.015Z",
-    "updated_at": "2026-10-22T20:14:24.015Z"
-  },
-  {
     "servicio_id": 2,
     "asesora_id": 9,
     "precio_base": 57500,
