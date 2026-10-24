@@ -1918,5 +1918,16 @@
     "id": 213,
     "created_at": "2026-10-24T16:14:08.267Z",
     "updated_at": "2026-10-24T16:14:08.267Z"
+  },
+  {
+    "nombre": "DANIELA",
+    "apellido": "YEPES ZEA",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 214,
+    "created_at": "2026-10-24T20:08:31.004Z",
+    "updated_at": "2026-10-24T20:08:31.004Z"
   }
 ]
