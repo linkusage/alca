@@ -1984,5 +1984,16 @@
     "id": 219,
     "created_at": "2026-10-28T21:33:33.962Z",
     "updated_at": "2026-10-28T21:33:33.962Z"
+  },
+  {
+    "nombre": "Catalina Montañez",
+    "apellido": "",
+    "telefono": "3137442379",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 220,
+    "created_at": "2026-10-29T17:18:19.133Z",
+    "updated_at": "2026-10-29T17:18:19.133Z"
   }
 ]
