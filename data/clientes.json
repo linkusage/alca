@@ -2028,5 +2028,16 @@
     "id": 223,
     "created_at": "2026-10-31T00:35:25.032Z",
     "updated_at": "2026-10-31T00:35:25.032Z"
+  },
+  {
+    "nombre": "Ana Lopez",
+    "apellido": "",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 224,
+    "created_at": "2026-10-31T20:47:14.948Z",
+    "updated_at": "2026-10-31T20:47:14.948Z"
   }
 ]
