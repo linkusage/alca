@@ -2039,5 +2039,16 @@
     "id": 224,
     "created_at": "2026-10-31T20:47:14.948Z",
     "updated_at": "2026-10-31T20:47:14.948Z"
+  },
+  {
+    "nombre": "Marta Salazar",
+    "apellido": "",
+    "telefono": "",
+    "email": "",
+    "fecha_nacimiento": "",
+    "alianza_id": null,
+    "id": 225,
+    "created_at": "2026-10-31T20:50:15.950Z",
+    "updated_at": "2026-10-31T20:50:15.950Z"
   }
 ]
