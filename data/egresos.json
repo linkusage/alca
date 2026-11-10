@@ -1249,5 +1249,14 @@
     "id": 139,
     "created_at": "2026-11-10T17:15:40.883Z",
     "updated_at": "2026-11-10T17:15:40.883Z"
+  },
+  {
+    "fecha": "2026-11-10",
+    "categoria_id": 8,
+    "valor": 28200,
+    "notas": "Servicio a Mariana pies semi (Ana)",
+    "id": 140,
+    "created_at": "2026-11-10T17:16:16.887Z",
+    "updated_at": "2026-11-10T17:16:16.887Z"
   }
 ]
