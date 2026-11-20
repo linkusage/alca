@@ -14116,22 +14116,22 @@
     "pagos": [
       {
         "metodo_pago_id": 2,
-        "monto": 30000,
+        "monto": 45000,
         "recargo": 0
       }
     ],
     "total_recargos": 0,
-    "total_cobrado": 30000,
+    "total_cobrado": 45000,
     "propinas": [],
     "total_propinas": 0,
-    "subtotal": 30000,
+    "subtotal": 45000,
     "total_descuentos": 0,
-    "total_final": 30000,
-    "total_comisiones": 14100,
-    "total_alca": 15900,
+    "total_final": 45000,
+    "total_comisiones": 21150,
+    "total_alca": 23850,
     "id": 608,
     "created_at": "2026-11-19T18:17:06.887Z",
-    "updated_at": "2026-11-19T18:17:06.887Z"
+    "updated_at": "2026-11-20T17:46:48.311Z"
   },
   {
     "fecha": "2026-11-19",
