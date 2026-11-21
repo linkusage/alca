@@ -1285,5 +1285,14 @@
     "id": 143,
     "created_at": "2026-11-14T21:43:25.015Z",
     "updated_at": "2026-11-14T21:43:25.015Z"
+  },
+  {
+    "fecha": "2026-11-21",
+    "categoria_id": 9,
+    "valor": 104500,
+    "notas": "Makeup esposa Julian Financiero",
+    "id": 144,
+    "created_at": "2026-11-21T22:03:43.319Z",
+    "updated_at": "2026-11-21T22:03:43.319Z"
   }
 ]
